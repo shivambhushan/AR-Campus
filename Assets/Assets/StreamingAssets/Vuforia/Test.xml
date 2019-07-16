@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="imp4" size="10.000000 10.000000" />
+    <ImageTarget name="imp3" size="10.000000 10.000000" />
+    <ImageTarget name="imp2" size="10.000000 10.000000" />
+    <ImageTarget name="imp1" size="10.000000 10.000000" />
+    <ImageTarget name="feat9" size="10.000000 10.000000" />
+    <ImageTarget name="feat8" size="10.000000 10.000000" />
+    <ImageTarget name="feat5" size="10.000000 10.000000" />
+    <ImageTarget name="feat4" size="10.000000 10.000000" />
+    <ImageTarget name="bug3" size="10.000000 10.000000" />
+    <ImageTarget name="bug2" size="10.000000 10.000000" />
+    <ImageTarget name="bug1" size="10.000000 10.000000" />
+    <ImageTarget name="Foto_Eray" size="15.000000 22.500000" />
+    <ImageTarget name="Foto_Bora" size="0.200000 0.267897" />
+    <ImageTarget name="Foto_Irem" size="0.050000 0.066949" />
+    <ImageTarget name="Foto_Ipek" size="0.050000 0.066637" />
+  </Tracking>
+</QCARConfig>
